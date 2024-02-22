@@ -1,0 +1,1358 @@
+{
+    "CSE203_Day1_testing_01_i": {
+      "-Nl6eSzmYY9RXJcvuTdb":{
+    "DateTime": "08/12/2023: 10:22:43",
+    "DeviceModel": "RMX3363",
+    "ScanList": [
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -69
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -69
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -68
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -83
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -55
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -74
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -60
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -45
+        },
+        {
+          "SSID": "CSE-405",
+          "Strength": -87
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -66
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -73
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -58
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -71
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -85
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -64
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -72
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -48
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -69
+        },
+        {
+          "SSID": "",
+          "Strength": -60
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -68
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -73
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -72
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -85
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -67
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -56
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -70
+        },
+        {
+          "SSID": "",
+          "Strength": -58
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -69
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -71
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -70
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -86
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -68
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -73
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -78
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -46
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -69
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-G09",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -66
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -72
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -60
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -70
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -85
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -72
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -74
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -78
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -50
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -56
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -74
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -70
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -72
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-108",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -72
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -74
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -74
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -61
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -67
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -48
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -71
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -61
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -58
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -66
+        },
+        {
+          "SSID": "CSE-108",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -71
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -85
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -69
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -74
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -61
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -46
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -57
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -71
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -65
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -72
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -58
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -71
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -85
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -68
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -72
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -61
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -49
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -57
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -71
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -52
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -57
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -71
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE-401",
+          "Strength": -78
+        },
+        {
+          "SSID": "204 Family",
+          "Strength": -87
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -68
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -64
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -73
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -47
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -57
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -68
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -60
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -75
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -72
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-108",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -71
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -86
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -66
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -72
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -56
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -46
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -57
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -71
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -66
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -58
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE-108",
+          "Strength": -86
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -86
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -68
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -61
+        },
+        {
+          "SSID": "mehedikhan",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -80
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -66
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -48
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -56
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -77
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -70
+        },
+        {
+          "SSID": "",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -70
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -72
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE-108",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -70
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -86
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -69
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -66
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -48
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -71
+        },
+        {
+          "SSID": "",
+          "Strength": -58
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -67
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -72
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE-108",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -71
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -85
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -71
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -71
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -62
+        },
+        {
+          "SSID": "",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -48
+        },
+        {
+          "SSID": "",
+          "Strength": -57
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -56
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -72
+        },
+        {
+          "SSID": "",
+          "Strength": -60
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -66
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -70
+        },
+        {
+          "SSID": "ROOM\"513",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-108",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -71
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE-401",
+          "Strength": -79
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -73
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -65
+        },
+        {
+          "SSID": "Jannat Wifi",
+          "Strength": -90
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -60
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -71
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -72
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -58
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -71
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -85
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -68
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -72
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -80
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -46
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -57
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE-G09",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -66
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -72
+        },
+        {
+          "SSID": "ROOM\"513",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-108",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -71
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -86
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -66
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -75
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -48
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -55
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -67
+        }
+      ],
+      [
+        {
+          "SSID": "Room709🍁🍁",
+          "Strength": -89
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -71
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -87
+        },
+        {
+          "SSID": "",
+          "Strength": -84
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -68
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -61
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -64
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -81
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -47
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -57
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -71
+        },
+        {
+          "SSID": "",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -62
+        }
+      ],
+      [
+        {
+          "SSID": "Room709🍁🍁",
+          "Strength": -89
+        },
+        {
+          "SSID": "CSE-206",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -58
+        },
+        {
+          "SSID": "CSE-108",
+          "Strength": -80
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -70
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -65
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -74
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -46
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -57
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -70
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-304",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -68
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -72
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -59
+        },
+        {
+          "SSID": "CSE-303",
+          "Strength": -65
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -71
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -86
+        },
+        {
+          "SSID": "CSE-401",
+          "Strength": -79
+        },
+        {
+          "SSID": "Hall of Fame",
+          "Strength": -74
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -62
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -79
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -82
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -48
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -57
+        },
+        {
+          "SSID": "",
+          "Strength": -58
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -66
+        },
+        {
+          "SSID": "CSE-G04",
+          "Strength": -74
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -67
+        }
+      ],
+      [
+        {
+          "SSID": "CSE-206",
+          "Strength": -72
+        },
+        {
+          "SSID": "CSE-202",
+          "Strength": -58
+        },
+        {
+          "SSID": "CSE-108",
+          "Strength": -84
+        },
+        {
+          "SSID": "dlink",
+          "Strength": -87
+        },
+        {
+          "SSID": "DataLab@BUET",
+          "Strength": -67
+        },
+        {
+          "SSID": "Galaxy M124213",
+          "Strength": -63
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -80
+        },
+        {
+          "SSID": "CSE OFFICE",
+          "Strength": -84
+        },
+        {
+          "SSID": "CSE-G07",
+          "Strength": -83
+        },
+        {
+          "SSID": "CSE-205",
+          "Strength": -56
+        },
+        {
+          "SSID": "CSE-204",
+          "Strength": -68
+        },
+        {
+          "SSID": "CSE-G09",
+          "Strength": -85
+        },
+        {
+          "SSID": "CSE-104",
+          "Strength": -70
+        }
+      ]
+    ]
+  }
+}
+}
