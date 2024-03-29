@@ -13,13 +13,14 @@ from heuristics import Cosine_similarity
 from heuristics import Jaccard_similarity
 
 
+
 from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import accuracy_score
 
 
 # Open the JSON file and load the data
-with open('../data/204_ALL.json', 'r') as file:
+with open('../data/203_ALL.json', 'r') as file:
     data = json.load(file)
 
 
@@ -127,38 +128,31 @@ ref_points = {room_pos: {ssid: avg_strength_for_ssid(data[room_pos], ssid)[0] fo
 test_points = {room_pos: {ssid: avg_strength_for_ssid(data[room_pos], ssid)[0] for ssid in selectedSSID} for room_pos in testingPoints}
 
 def knn_with_majority_voting(ref_points, test_points, k):
-    matched_count = 0
-    unmatched_count = 0
+    X_train = []  # Features
+    y_train = []  # Target labels
+
     for test_key, test_value in test_points.items():
         distance_map = {}
         for ref_key, ref_value in ref_points.items():
-            distance_map[ref_key] = euclidean_distance(ref_value, test_value)
-        sorted_distances = sorted(distance_map.items(), key=lambda x: x[1])
-        count_map = {"inside": 0, "outside": 0}
-        for i in range(k):
-            ref_point, _ = sorted_distances[i]
-            if ref_point.endswith("_i"):
-                print("Inside:", ref_point, "Distance:", distance_map[ref_point])
-                count_map["inside"] += 1
-            else:
-                print("Outside:", ref_point, "Distance:", distance_map[ref_point])
-                count_map["outside"] += 1
-        if count_map["inside"] > count_map["outside"]:
-            if test_key.endswith("_i"):
-                print(test_key, "is inside (Correct)")
-                matched_count += 1
-            else:
-                print(test_key, "is inside (Incorrect)")
-                unmatched_count += 1
-        else:
-            if test_key.endswith("_i"):
-                print(test_key, "is outside (Incorrect)")
-                unmatched_count += 1
-            else:
-                print(test_key, "is outside (Correct)")
-                matched_count += 1
-    print("Matched:", matched_count)
-    print("Unmatched:", unmatched_count)
+            distance_map[ref_key] = DotProduct(ref_value, test_value)
+        sorted_distances = sorted(distance_map.items(), key=lambda x: x[1])[:k]  # Select k nearest neighbors
+        distances = [dist for _, dist in sorted_distances]  # Extract distances
+        X_train.append(distances)
+        y_train.append(1 if test_key.endswith("_i") else 0)  # 1 for inside, 0 for outside
+
+    # Train-test split
+    X_train, X_test, y_train, y_test = train_test_split(X_train, y_train, test_size=0.2, random_state=42)
+
+    # Initialize and train the logistic regression model
+    model = LogisticRegression()
+    model.fit(X_train, y_train)
+
+    # Make predictions
+    predictions = model.predict(X_test)
+
+    # Evaluate the model
+    accuracy = accuracy_score(y_test, predictions)
+    print("Accuracy:", accuracy)
 
 # Define the value of k
 k = 7 # Choose an appropriate value for k
